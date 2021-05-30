@@ -18,3 +18,7 @@ https://www.the-qrcode-generator.com/
 
 Browser MQTT可以使用
 https://github.com/mcollina/mows
+
+簡訊實名制參考於
+https://g0v.hackmd.io/@au/HkmyoS-Fu
+
